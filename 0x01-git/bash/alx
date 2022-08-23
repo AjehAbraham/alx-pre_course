@@ -1,1 +1,4 @@
-#!/bin/bash \n echo "ALX Schohool" 
+#!/bin/bash 
+echo "ALX School"
+
+
