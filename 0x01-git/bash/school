@@ -1,2 +1,1 @@
-#!/bin/bash /n echo "ALX" > bash/alx
-echo "#!/bin /n echo "school" 
+#!/bin/bash \n echo "School"
